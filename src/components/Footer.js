@@ -15,7 +15,7 @@ export default class Footer extends React.Component {
                 </React.Fragment>))}
               </p>
               <Link id="to-top" className="to-top" to="#page"><span className="icon-arrow-up" aria-hidden="true" /><span
-                  className="screen-reader-text">Back to top</span></Link>
+                  className="screen-reader-text">Terug naar boven ☝️</span></Link>
             </footer>
         );
     }
